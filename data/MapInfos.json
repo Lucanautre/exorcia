@@ -1,6 +1,11 @@
 [
 null,
 {"id":1,"expanded":true,"name":"début","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+<<<<<<< HEAD
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":811,"scrollY":733},
+{"id":3,"expanded":false,"name":"DONJON","order":3,"parentId":2,"scrollX":811,"scrollY":673}
+=======
 {"id":2,"expanded":true,"name":"Map002","order":2,"parentId":1,"scrollX":811,"scrollY":987},
 {"id":3,"expanded":false,"name":"DONJON001","order":3,"parentId":2,"scrollX":819,"scrollY":453}
+>>>>>>> 9087f66633f7f7f0fefbb54084727335bef21fb2
 ]
